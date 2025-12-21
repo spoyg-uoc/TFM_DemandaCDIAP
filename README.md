@@ -1,4 +1,4 @@
-# Gestió proactiva de la demanda als CDIAP amb Deep Learning
+# Gestió proactiva de la demanda en Atenció Precoç: Aplicació de models predictius amb sèries temporals a un CDIAP
 ## Treball Final de Màster - UOC
 
 TFM centrat en el desenvolupament d’un model predictiu per anticipar la demanda assistencial
