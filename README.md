@@ -5,8 +5,7 @@ TFM centrat en el desenvolupament d’un model predictiu per anticipar la demand
 als Centres de Desenvolupament Infantil i Atenció Precoç (CDIAP) de Catalunya, utilitzant
 sèries temporals, mitjançant tècniques estadístiques clàssiques i de Deep Learning.
 
-El conjunt de dades, per raons de privacitat i protecció de dades,el conjunt de dades utilitzat no s’ha publicat
-en aquest repositori.
+El conjunt de dades, per raons de privacitat i protecció de dades, no s’ha publicat en aquest repositori.
 
 Els notebooks que inclosos són:
 
